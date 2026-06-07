@@ -96,3 +96,46 @@ STT,Blue team,Red team,BBan 1,BBan 2,BBan 3,BBan 4,B1,B2,B3,B4,B5,Rban 1,Rban 2,
 95,FS,FPT,valhein,mganga,heino,ignis,tara,lorion,capheny,anette,ryoma,rouie,krizizz,teemee,mina,elandor,aya,toro,hayate,qi,9:45,FS
 96,FS,FPT,valhein,tara,flo,dolia,elsu,gildur,billow,mina,ybnet,rouie, marja,iggy,skurt,mganga,sines,stuart,rickter,cresh,15:50,FS
 97,FS,FPT,valhein,kera,murad,flo,tachi,mganga,dolia,skurt,stuart,rouie,marja,hayate,elandor,elsu,tara,ignis,anette,maloch,24:43,FS
+98,ONE,BAC,billow,elandor,skud,qi,rouie,fennik,baldum,biron,krinak,ybnet,toro,flo,sines,valhein,teemee,tachi,marja,lorion,17:03,BAC
+99,BAC,ONE,valhein,enzo,grak,flo,mganga,dolia,stuart,qi,zuka,rouie,sines,elandor,keera,ignis,billow,hayate,ybnet,skud,11:20,ONE
+100,ONE,BAC,rouie,elandor,skud,omen,keera,stuart,enzo,rickter,natalya,valhein,sines,mganga,lorion,thane,billow,hayate,anette,biron,12:52,BAC
+101,BAC,ONE,valhein,mganga,flo,qi,elandor,mina,heino,fennik,enzo,rouie,sines,rickter,skud,capheny,zuka,kriziz,lorion,veres,20:18,ONE
+102,ONE,BAC,rouie,keera,skud,ybnet,wisp,aoi,kahlii,flo,omen,valhein,sines,dolia,maloch,elsu,iggy,zephys,tara,rickter,33:10,BAC
+103,BAC,ONE,valhein,marja,mganga,murad,wisp,maloch,keera,ilumia,yena,rouie,sines,govera,skud,elsu,tachi,thane,raz,qi,21:59,BAC
+104,FPT,FW,elandor,valhein,flo,qi,sines,ybnet,heino,marja,fennik,rouie,hayate,elsu,wisp,mganga,zephys,kriziz,skud,violet,9:26,FPT
+105,FW,FPT,billow,stuart,lorion,skud,valhein,keera,thane,yena,ignis,rouie,sines,qi,flo,hayate,toro,zephys,iggy,rickter,23:37,FPT
+106,FPT,FW,sines,heino,ybnet,toro,lorion,teemee,elsu,krinak,ryoma,rouie,valhein,mina,zuka,iggy,elandor,hayate,wiro,omen,9:30,FW
+107,FW,FPT,elandor,valhein,stuart,anette,billow,elsu,flo,liliana,ybnet,sines,rouie,gildur,enzo,qi,keera,thane,capheny,kahlii,11:45,FW
+108,FW,FPT,billow,valhein,elandor,tachi,teemee,wisp,marja,tara,gildur,rouie,sines,lorion,maloch,enzo,stuart,biron,raz,wonder woman,13:52,FW
+109,FW,FPT,billow,elandor,flo,ignis,tachi,maloch,stuart,natalya,murad,rouie,sines,lorion,heino,valhein,tara,aya,airi,skud,26:28,FW
+110,ONE,PSG,billow,elandor,qi,ybnet,valhein,marja,thane,ignis,rickter,rouie,sines,heino,mganga,fennik,tachi,lorion,dolia,flo,12:18,PSG
+111,PSG,ONE,flo,tachi,maloch,enzo,mganga,elandor,toro,valhein,skud,rouie,sines,stuart,qi,iggy,billow,capheny,baldum,biron,10:02,ONE
+112,ONE,PSG,billow,capheny,ignis,marja,hayate,teemee,mganga,skud,zephys,rouie,sines,tachi,elandor,elsu,tara,keera,qi,iggy,20:03,ONE
+113,PSG,ONE,toro,lorion,mina,stuart,anette,capheny,zephys,yena,helen,rouie,sines,maloch,marja,tara,elandor,aya,tachi,omen,9:47,PSG
+114,ONE,PSG,billow,hayate,omen,rickter,lorion,keera,elsu,murad,ybnet,rouie,sines,qi,kriziz,heino,stuart,marja,yan,teemee,14:14,PSG
+115,PSG,ONE,flo,kriziz,natalya,raz,rouie,thorne,ybnet,wonder woman,maloch,hayate,billow,omen,rickter,wisp,sines,enzo,anette,veres,27:00,ONE
+116,ONE,PSG,elandor,marja,qi,dolia,billow,hayate,ignis,biron,toro,rouie,sines,flo,ybnet,valhein,tachi,lorion,skud,maloch,20:29,PSG
+117,BAC,FS,elandor,flo,zephys,keera,valhein,billow,mganga,qi,max,rouie,tachi,ming,skud,fennik,toro,iggy,sines,enzo,22:59,FS
+118,FS,BAC,sines,elandor,wisp,stuart,marja,baldum,valhein,aoi,liliana,rouie,tachi,lorion,mganga,ryoma,teemee,ignis,hayate,tarra,10:17,FS
+119,FS,BAC,sines,heino,anette,liliana,elandor,lorion,thane,billow,biron,rouie,tachi,flo,skud,mina,wisp,keera,toro,jinna,10:04,FS
+120,FS,BAC,sines,elandor,gildur,thane,tara,heino,capheny,ming,qi,rouie,krizizz,murad,flo,marja,tachi,elsu,dolia,kahlii,11:29,BAC
+121,FS,BAC,sines,elandor,zephys,murad,stuart,mganga,flo,ybnet,keera,rouie,krizizz,dolia,tachi,violet,enzo,iggy,airi,bolbaron,9:30,FS
+122,FW,PSG,elandor,ybnet,dolia,thane,ignis,keera,toro,capheny,qi,rouie,sines,fennik,flo,lorion,tachi,valhein,teemee,yena,10:00,PSG
+123,PSG,FW,marja,elandor,murad,airi,rouie,fennik,flo,anette,yan,sines,stuart,zephys,keera,govera,billow,hayate,yena,enzo,9:24,FW
+124,FW,PSG,billow,keera,murad,marja,sines,maloch,iggy,teeri,biron,rouie,valhein,skud,flo,elsu,tara,gildur,zephys,qi,20:53,PSG
+125,PSG,FW,valhein,rouie,elandor,murad,marja,keera,mganga,hayate,thane,sines,enzo,maloch,billow,zill,ryoma,azenka,wisp,ybnet,20:27,FW
+126,FW,PSG,sines,billow,capheny,wisp,elandor,flo,gildur,violet,thane,valhein,rouie,elsu,tara,heino,toro,murad,stuart,zuka,10:18,PSG
+127,PSG,FW,valhein,rouie,lorion,heino,billow,maloch,biron,capheny,iggy,sines,ybnet,dolia,wisp,marja,tachi,elsu,baldum,liliana,13:01,FW
+128,FW,PSG,elandor,valhein,elsu,capheny,tachi,hayate,marja,raz,ybnet,rouie,sines,mganga,lorion,billow,heino,qi,wisp,maloch,21:44,FW
+129,FW,BAC,tachi,elandor,teemee,enzo,errol,keera,ignis,stuart,ybnet,rouie,sines,flo,toro,skud,billow,raz,valhein,xeniel,13:24,BAC
+130,BAC,FW,valhein,zephys,flo,enzo,elandor,mina,stuart,kahlii,dolia,rouie,hayate,max,tara,iggy,sines,elsu,thane,yena,19:09,FW
+131,FW,BAC,sines,tachi,keera,flo,skud,billow,heino,hayate,teemee,elandor,mganga,qi,murad,marja,zephys,lorion,wisp,krizizz,16:12,BAC
+132,FW,BAC,hayate,sines,keera,flo,valhein,wiro,anette,airi,zephys,rouie,tachi,marja,murad,enzo,mganga,elsu,qi,tarra,16:10,BAC
+133,BAC,FW,marja,elandor,enzo,toro,tachi,hayate,ignis,ryoma,thane,sines,ybnet,teemee,murad,flo,rouie,wisp,zuka,aduin,22:37,FW
+134,FW,BAC,rouie,sines,keera,zuka,capheny,enzo,mganga,yan,tarra,marja,tachi,qi,elandor,teemee,iggy,flo,murad,slimz,22:20,FW
+135,FW,BAC,elandor,marja,krizizz,enzo,tachi,flo,stuart,iggy,wiro,sines,rouie,mganga,dolia,billow,valhein,lorion,teemee,murad,53:27,FW
+136,FW,FS,elandor,marja,billow,flo,rouie,keera,wiro,wisp,yena,tachi,valhein,capheny,omen,lorion,teemee,hayate,zuka,bolbaron,16:53,FW
+137,FW,FS,rouie,marja,tara,toro,thane,elsu,iggy,yan,qi,hayate,flo,tachi,sines,mganga,stuart,skud,xeniel,nakarot,12:45,FS
+138,FS,FW,elandor,sines,biron,toro,marja,fennik,ybnet,natalya,zephys,rouie,tachi,anette,heino,valhein,billow,enzo,lorion,nakarot,12:58,FS
+139,FW,FS,rouie,elandor,valhein,elsu,marja,tarra,ybnet,thorne,liliana,stuart,tachi,hayate,teeri,sines,toro,flo,capheny,ignis,14:24,FS
+140,FS,FW,flo,skud,biron,mganga,elandor,billow,mina,liliana,yena,tachi,rouie,elsu,iggy,capheny,zuka,kriziz,natalya,omen,12:52,FS
