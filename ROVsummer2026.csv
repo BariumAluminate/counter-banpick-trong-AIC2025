@@ -1,0 +1,37 @@
+STT,Blue team,Red team,BBan 1,BBan 2,BBan 3,BBan 4,B1,B2,B3,B4,B5,Rban 1,Rban 2,Rban 3,Rban 4,R1,R2,R3,R4,R5,Time,Win
+1,FS,GJC,Annette,Elandorr,Qi,Florentino,Rouie,Hayate,Billow,Skud,Toro,Sinestria,Zata,Mganga,Marja,Y'bneth,Keera,Lorion,Wisp,Murad,11:58,FS
+2,GJC,FS,Elandorr,Zata,Tachi,Keera,Sinestria,Elsu,Iggy,Thane,Marja,Rouie,Enzo,Skud,Maloch,Mganga,Stuart,Dolia,Taara,Zephys,18:42,FS
+3,FS,GJC,Rouie,Zata,Kahlii,Dolia,Annette,Murad,Elsu,Aya,Rickter,Sinestria,Elandorr,Florentino,Marja,Capheny,Tachi,Qi,Taara,Yue,16:55,FS
+4,SLX,BAC,Elandorr,Enzo,Teemee,Annette,Zata,Edras,Dolia,Fennik,Marja,Valhein,Stuart,Qi,Capheny,Hayate,Tachi,Murad,Mganga,Toro,12:50,SLX
+5,SLX,BAC,Zata,Marja,Florentino,Edras,Yb'neth,Billow,Valhein,Biron,Natalya,Sinestria,Tachi,Mganga,Iggy,Enzo,Wisp,Lorion,Skud,Elandorr,18:45,BAC
+6,BAC,SLX,Murad,Lorion,Enzo,Ignis,Rouie,Marja,Yb'neth,Elsu,Airi,Zata,Sinestria,Florentino,Keera,Tachi,Stuart,Qi,Heino,Teemee,17:16,BAC
+7,SLX,BAC,Zata,Valhein,Aya,Dolia,Iggy,Elsu,Zephys,Florentino,Annette,Sinestria,Rouie,Skud,Toro,Capheny,Keera,Taara,Teemee,Tulen,14:48,SLX
+8,SLX,BAC,Zata,Valhein,Stuart,Maloch,Lorion,Elandorr,Toro,Airi,Volkath,Rouie,Sinestria,Skud,Murad,Iggy,Billow,Dolia,Erin,Rickter,10:00,SLX
+9,BRU,EA,Billow,Enzo,Florentino,Elandorr,Tachi,Capheny,Annette,Murad,Thane,Sinestria,Valhein,Teemee,Toro,Dolia,Zata,Elsu,Biron,Veres,24:33,BRU
+10,EA,BRU,Zata,Valhein,Yue,Lorion,Elandorr,Yb'neth,Iggy,Tachi,Skud,Rouie,Sinestria,Marja,Florentino,Elsu,Zephys,Gildur,Ignis,Edras,20:23,BRU
+11,BRU,EA,Billow,Lorion,Enzo,Krizzix,Sinestria,Marja,Mganga,Hayate,Dolia,Zata,Rouie,Toro,Yb'neth,Stuart,Keera,Qi,Teemee,Yue,12:10,BRU
+12,HD,BAC,Dolia,Elandorr,Marja,Stuart,Rouie,Edras,Teemee,Hayate,Skud,Sinestria,Billow,Florentino,Elsu,Lorion,Tachi,Yb'neth,Wisp,Airi,16:43,BAC
+13,BAC,HD,Tachi,Murad,Florentino,Enzo,Dolia,Elandorr,Mganga,Taara,Edras,Sinestria,Rouie,Elsu,Skud,Stuart,Zata,Zephys,Qi,Ming,8:32,BAC
+14,BAC,HD,Elandorr,Lorion,Florentino,Murad,Fennik,Volkath,Rouie,Skud,Enzo,Marja,Sinestria,Hayate,Stuart,Ignis,Billow,Yb'neth,Capheny,Airi,8:05,BAC
+15,BRU,SLX,Edras,Billow,Y'bneth,Florentino,Dolia,Elsu,Mganga,Qi,Keera,Tachi,Capheny,Errol,Elandorr,Zata,Sinestria,Stuart,Toro,Skud,9:43,SLX
+16,SLX,BRU,Capheny,Valhein,Murad,Hayate,Edras,Mganga,Yb'neth,Wisp,Ryoma,Dolia,Lorion,Qi,Biron,Rouie,Elandorr,Toro,Marja,Fennik,25:59,BRU
+17,BRU,SLX,Marja,Billow,Volkath,Florentino,Tachi,Capheny,Iggy,Skud,Yb'neth,Valhein,Zata,Qi,Airi,Hayate,Lorion,Murad,Mina,Maloch,9:16,BRU
+18,SLX,BRU,Marja,Tachi,Volkath,Teemee,Billow,Enzo,Lorion,Wisp,Ryoma,Murad,Stuart,Airi,Hayate,Valhein,Florentino,Annette,Baldum,Elandorr,13:30,SLX
+19,SLX,BRU,Volkath,Sinestria,Hayate,Murad,Iggy,Marja,Capheny,Keera,Helen,Rouie,Tachi,Teemee,Ming,Aya,Taara,Stuart,Errol,Biron,16:52,SLX
+20,TEN,FS,Mganga,Elandorr,Marja,Yena,Sinestria,Toro,Hayate,Yue,Airi,Zata,Rouie,Qi,Skud,Billow,Stuart,Annette,Krizzix,Omen,16:32,FS
+21,FS,TEN,Iggy,Annette,Elsu,Qi,Zata,Hayate,Yb'neth,Murad,Ryoma,Sinestria,Mganga,Elandorr,Keera,Dolia,Tachi,Liliana,Marja,Stuart,22:47,FS
+22,TEN,FS,Sinestria,Marja,Keera,Kriknak,Elandorr,Taara,Aya,Fennik,Skud,Zata,Rouie,Florentino,Elsu,Iggy,Toro,Capheny,Qi,Enzo,16:59,FS
+23,GJC,KOG,Elandorr,Dolia,Toro,Toro,Marja,Capheny,Annette,Yena,Teemee,Rouie,Sinestria,Billow,Keera,Qi,Hayate,Iggy,Tachi,Yb'neth,16:03,KOG
+24,KOG,GJC,Murad,Elandorr,Qi,Hayate,Rouie,Fennik,Marja,Billow,Toro,Sinestria,Zata,Zephys,Enzo,Y'bneth,Keera,Lorion,Wisp,Taara,9:50,KOG
+25,KOG,GJC,Rouie,Elsu,Murad,Mganga,Zata,Enzo,Edras,Valhein,Rickter,Sinestria,Elandorr,Capheny,Florentino,Dolia,Tachi,Hayate,Lililana,Skud,21:33,GJC
+26,GJC,KOG,Stuart,Elsu,Keera,Zephys,Elandorr,Qi,Thane,Yue,Billow,Rouie,Sinestria,Iggy,Natalya,Wisp,Mina,Mganga,Ryoma,Skud,10:02,KOG
+27,SLX,EA,Elandorr,Valhein,Billow,Wisp,Sinestria,Stuart,Lorion,Ryoma,Dolia,Zata,Edras,Qi,Enzo,Rouie,Yb’neth,Marja,Keera,Omen,17:49,SLX
+28,SLX,EA,Sinestria,Elandorr,Billow,Murad,Zata,Fennik,Florentino,Errol,Cresh,Edras,Yb’neth,Tachi,Volkath,Toro,Valhein,Annette,Zephys,Airi,18:27,SLX
+29,EA,SLX,Valhein,Rouie,Helen,Teemee,Elandorr,Taara,Aya,Billow,Qi,Zata,Sinestria,Murad,Stuart,Iggy,Capheny,Marja,Edras,Omen,13:45,SLX
+30,FS,HD,Tachi,Edras,Natalua,Iggy,Sinestria,Mganga,Stuart,Dolia,Skud,Rouie,Zata,Qi,Toro,Billow,Marja,Enzo,Elsu,Ignis,12:38,FS
+31,HD,FS,Marja,Elandorr,Florentino,Qi,Rouie,Tachi,Stuart,Yena,Toro,Edras,Dolia,Skud,Omen,Valhein,Keera,Ignis,Yb’neth,Biron,9:56,FS
+32,FS,HD,Sinestria,Dolia,Hayate,Murad,Edras,Elsu,Marja,Iggy,Thane,Rouie,Enzo,Annette,Lorion,Zata,Keera,Qi,Capheny,Yb'neth,14:48,FS
+33,TEN,KOG,Mganga,Elandorr,Annette,Liliana,Zata,Qi,Hayate,Enzo,Nakroth,Rouie,Sinestria,Mina,Billow,Dolia,Tachi,Capheny,Yue,Skud,17:18,KOG
+34,KOG,TEN,Elandorr,Tachi,Teemee,Thane,Marja,Raz,Keera,Fennik,Enzo,Sinestria,Rouie,Stuart,Toro,Iggy,Edras,Valhein,Yb’neth,Ryoma,12:51 ,TEN
+35,TEN,KOG,Valhein,Edras,Florentino,Qi,Elandorr,Toro,Aya,Skud,Heino,Rouie,Sinestria,Tachi,Marja,Mina,Stuart,Mganga,Zephys,Maloch,13:26,TEN
+36,TEN,KOG,Edras,Elandorr,Teemee,Yb’neth,Billow,Florentino,Capheny,Liliana,Taara,Sinestria,Rouie,Lorion,Annette,Qi,Iggy,Hayate,Toro,Murad,13:47,TEN
